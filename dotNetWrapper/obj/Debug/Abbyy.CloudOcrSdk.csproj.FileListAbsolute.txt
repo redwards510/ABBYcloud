@@ -1,0 +1,6 @@
+C:\wkspaces\ABBYcloud\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.dll.config
+C:\wkspaces\ABBYcloud\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.dll
+C:\wkspaces\ABBYcloud\dotNetWrapper\bin\Debug\AbbyyOnlineSdk.pdb
+C:\wkspaces\ABBYcloud\dotNetWrapper\obj\Debug\Abbyy.CloudOcrSdk.csprojResolveAssemblyReference.cache
+C:\wkspaces\ABBYcloud\dotNetWrapper\obj\Debug\AbbyyOnlineSdk.dll
+C:\wkspaces\ABBYcloud\dotNetWrapper\obj\Debug\AbbyyOnlineSdk.pdb

@@ -1,0 +1,9 @@
+C:\wkspaces\ABBYcloud\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\wkspaces\ABBYcloud\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\wkspaces\ABBYcloud\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\wkspaces\ABBYcloud\ConsoleTest\bin\Debug\AbbyyOnlineSdk.dll
+C:\wkspaces\ABBYcloud\ConsoleTest\bin\Debug\NDesk.Options.dll
+C:\wkspaces\ABBYcloud\ConsoleTest\bin\Debug\AbbyyOnlineSdk.pdb
+C:\wkspaces\ABBYcloud\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\wkspaces\ABBYcloud\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\wkspaces\ABBYcloud\ConsoleTest\obj\Debug\ConsoleTest.pdb
